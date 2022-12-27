@@ -24,7 +24,7 @@
 
 
 
-#define GamePackageName "com.aniplex.fategrandorder"
+#define GamePackageName "com.axlebolt.standoff2"
 
 int isGame(JNIEnv *env, jstring appDataDir) {
     if (!appDataDir)
